@@ -1,0 +1,162 @@
+
+h1 {
+  font-family: cursive;
+  text-transform: capitalize;
+  color: #62af7d;
+	background: white;
+  font-size: 30px;
+  margin-left: 2%;
+  }
+h2 {
+    color: #dcddf2;
+    background: #4349db;
+    text-decoration: underline;
+  }
+
+h3 {
+  font-family: fantasy;
+  color: #bc0918;
+  margin-left: 2%;
+}
+ul, li {
+  font-family:fantasy;
+  color: #0c4242;
+  margin-top: 5px;
+}
+
+p {
+  font-family: fantasy;
+  color: #0c4242;
+  background: white;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 20px;
+}
+img{
+  width: 100%;
+  float: left;
+  background:#c2d1ce;
+  margin-top: 10%;
+  transform: rotate(90deg);
+  }
+body {
+  background: #d5d6ea;
+  margin: 2%;
+  padding: 15px;
+}
+
+
+#QuienSoy {
+
+}
+
+.Formación {
+background: white;
+}
+
+#Formación {
+
+}
+
+.Tecnico {
+  text-decoration: underline;
+}
+
+#Experiencia {
+
+}
+
+#Portfolio {
+
+}
+
+.Presentación {
+  padding: 0px;
+  margin: 50px;
+  float: left;
+  width: 20%;
+  margin-top: 4%;
+}
+
+
+.cuerpo{
+  width: 70%;
+  float: right;
+}
+
+.menu{
+  float: inherit;
+  width: 100%;
+  margin-top: 20%;
+  margin-left: 0%;
+}
+
+.Bloque1 {
+  background: white;
+  width: 95%;
+  margin-top: 5%;
+}
+
+.Bloque2 {
+  background: white;
+  width: 100%;
+}
+
+.Boton1 {
+border: 2px solid #2e518b;
+padding: 1px;
+padding-right: 38%;
+background-color: #f9e6b1;
+color: #0c4242;
+text-decoration: none;
+font-size: 20px;
+border-radius: 10px;
+width: 100%;
+}
+
+.Boton2 {
+border: 2px solid #2e518b;
+padding: 1px;
+padding-right: 45%;
+background-color: #f9e6b1;
+color: #0c4242;
+text-decoration: none;
+font-size: 20px;
+border-radius: 10px;
+width: 100%;
+}
+
+.Boton3 {
+border: 2px solid #2e518b;
+padding: 1px;
+padding-right: 20%;
+background-color: #f9e6b1;
+color: #0c4242;
+text-decoration: none;
+font-size: 20px;
+border-radius: 10px;
+width: 100%;
+}
+
+.Boton4 {
+border: 2px solid #2e518b;
+padding: 1px;
+padding-right: 50%;
+background-color: #f9e6b1;
+color: #0c4242;
+text-decoration: none;
+font-size: 20px;
+border-radius: 10px;
+width: 100%;
+}
+
+#Lista {
+  list-style:none;
+  width: 100%;
+}
+
+li img {
+  width: 200px;
+  height: 100px;
+  transform: rotate(360deg);
+}
